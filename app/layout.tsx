@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "OKUL AI",
-  description: "AI POWERED KEYWORD ANALYZER FOR SEO",
+  description: "AI-powered city-based SEO market intelligence for okul",
 };
 
 export default function RootLayout({
